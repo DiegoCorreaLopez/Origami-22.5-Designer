@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnSave": true,
+  "python.interpreterPath": ".venv\\Scripts\\python.exe",
+  "black-formatter.importStrategy": "fromEnvironment"
+}
